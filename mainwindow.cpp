@@ -24,7 +24,7 @@ MainWindow::~MainWindow()
 
 void rotateImage(QImage &image, float angle)
 {
-    int width = image.width(); aleeeeee
+    int width = image.width(); 
     int height = image.height();
     int centerX = width / 2;
     int centerY = height / 2;
