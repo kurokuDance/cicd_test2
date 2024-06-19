@@ -22,7 +22,7 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
-void rotateImage(QImage &image, float angle) уууe
+void rotateImage(QImage &image, float angle)
 {
     int width = image.width(); 
     int height = image.height();
